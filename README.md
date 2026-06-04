@@ -1,7 +1,7 @@
 # 👾 LEVEL 0: THE BEGINNING
 
 **PLAYER ONE:** Blackirron 
-**STATUS:** Loading Memories... [████████████] 100%
+**STATUS:** Loading web development... [████████████] 100%
 
 ### 🛠️ Inventory
 | Item | Type | Power Level |
